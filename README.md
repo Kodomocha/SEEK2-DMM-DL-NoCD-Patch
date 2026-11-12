@@ -18,7 +18,7 @@ This patch permanently fixes all of them:
   - Automatically redirects CG and scene lookups to the local cg24/cg08 folders.
   - Automatically links seek2dat junctions so scenario commands find all assets.
   - Automatically configures C:\Windows\STONEHDS.INI with the correct game path.
-  - Works with the original official DMM seek2.exe without crashes or modifications.
+  - Works with the original official DMM seek2.exe without crashes(MAKE SURE TO OPEN THE GAME ON ADMINISTRATOR AT LOCALE EMULATOR) or modifications.
 
 ------------------------------------------------------------------------
 [How to Install]
