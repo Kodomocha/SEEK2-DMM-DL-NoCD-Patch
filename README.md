@@ -1,4 +1,4 @@
-DISCLAIMER:This patch is vibecoded by  Google Antigravity 
+DISCLAIMER:This patch was vibe-coded using Google Antigravity.
 
 
 SEEK2 -SADISTIC BABYLON- (DMM Download Version)
