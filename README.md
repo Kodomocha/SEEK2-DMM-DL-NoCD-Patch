@@ -19,7 +19,9 @@ This patch should fix all of them:
   - Automatically links seek2dat junctions so scenario commands find all assets.
   - Automatically configures C:\Windows\STONEHDS.INI with the correct game path.
   - Works with the original official DMM seek2.exe without crashes(MAKE SURE TO OPEN THE GAME ON ADMINISTRATOR AT LOCALE EMULATOR) or modifications.
- Feel free to report any errors!  
+ 
+ Feel free to report any errors!
+ 
 ------------------------------------------------------------------------
 [How to Install]
 ------------------------------------------------------------------------
