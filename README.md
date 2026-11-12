@@ -1,7 +1,9 @@
-========================================================================
+DISCLAIMER:This patch is vibecoded by  Google Antigravity 
+
+
 SEEK2 -SADISTIC BABYLON- (DMM Download Version)
 Complete No-CD & New Game Error 500 Fix Patch
-========================================================================
+
 
 [About this patch]
 The digital release of SEEK2 on DMM is distributed without an ISO / CD image.
@@ -42,5 +44,3 @@ This patch permanently fixes all of them:
 - Fix_Windows_INI.bat: Automated path configuration and directory linker.
 - STONEHDS.INI       : Standalone settings template.
 - INSTRUCTIONS.txt   : This guide.
-========================================================================
-DISCLAIMER:This patch is vibecoded by  Google Antigravity 
