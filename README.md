@@ -1,5 +1,5 @@
 DISCLAIMER:This patch was vibe-coded using Google Antigravity.
-Feel free to to report any potential error messages with screenshots.
+Feel free to to report any error messages with screenshots.
 
 SEEK2 -SADISTIC BABYLON- (DMM Download Version)
 Complete No-CD & New Game Error 500 Fix Patch
